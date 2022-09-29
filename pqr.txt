@@ -1,0 +1,1 @@
+Through "touch pqr.txt"  created text file.
